@@ -1851,16 +1851,19 @@
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
+			color:	#FF00FF;
 		}
 
 		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
 			font-style: normal;
 			font-weight: 300;
+			color:	#FF00FF;
 		}
 
 	h2 {
 		font-size: 1.75em;
 		letter-spacing: -0.025em;
+		color:	#FF00FF;
 	}
 
 	h3 {
