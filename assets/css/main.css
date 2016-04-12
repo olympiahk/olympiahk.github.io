@@ -1792,7 +1792,7 @@
 /* Basic */
 
 	body {
-		background:	#FF00FF
+		background-color:	#FF00FF
 	}
 
 		body.is-loading * {
